@@ -1,0 +1,6 @@
+name: CrackShop
+main: me.supermaxman.crackshop.CrackShop
+version: 1.0.0
+author: Supermaxman
+description: CrackShop!
+commands:
